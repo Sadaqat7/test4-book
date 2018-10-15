@@ -1,0 +1,27 @@
+article{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+.div{
+    height: 50px;
+    width: 120px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 5px;
+}
+p{
+    margin: 0%;
+    color: #4f89c6;
+}
+.one{
+    margin-left: 5px; 
+}
+/* .div{
+    display: flex;
+    min-width: 20px;
+    border: 1px solid black;
+} */
